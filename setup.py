@@ -5,7 +5,7 @@ with open('./README.md', 'r') as readme:
 
 setup(
     name='map-dictionary-keys',
-    version='0.0.1',
+    version='1.0.0',
     packages=['tests', 'map_dictionary_keys'],
     url='https://github.com/melwell89/map-dictionary-keys',
     author='Matt Elwell',
